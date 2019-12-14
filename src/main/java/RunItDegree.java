@@ -111,7 +111,7 @@ public class RunItDegree {
 
         Spinner spinner2 = new Spinner(shell, SWT.BORDER);
         spinner2.setMinimum(-9);
-        spinner2.setMaximum(-3);
+        spinner2.setMaximum(-4);
         spinner2.setSelection(-5);
 
         Font font2 = new Font(display, "Courier", 20, SWT.NORMAL);
