@@ -4,4 +4,3 @@
 ПИ-161 Шарипова Майнура
 
 
-Презентация и ПЗ здесь https://github.com/Mainurka/NPGraph/releases
